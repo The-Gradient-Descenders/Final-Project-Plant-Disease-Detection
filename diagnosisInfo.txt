@@ -1,0 +1,225 @@
+0
+Looks like your peach plant is healthy!
+
+4
+Looks like your grape plant is healthy!
+
+5
+Looks like your tomato plant is healthy!
+
+11
+Looks like your corn plant is healthy!
+
+8
+Looks like your soybean plant is healthy!
+
+10
+Looks like your blueberry plant is healthy!
+
+12
+Looks like your apple plant is healthy!
+
+14
+We aren't detecting any plant leaves in this image. Try taking another photo!
+
+16
+Looks like your bell pepper plant is healthy!
+
+19
+Looks like your raspberry plant is healthy!
+
+23
+Looks like your potato plant is healthy!
+
+33
+Looks like your strawberry plant is healthy!
+
+34
+Looks like your cherry plant is healthy!
+
+18
+Apple Scab
+Looks like your apple has apple scab, which is caused by the fungus Venturia inaequalis. Check out these resources:
+https://today.oregonstate.edu/news/7-tips-controlling-frustrating-apple-scab
+https://mortonarb.org/plant-and-protect/tree-plant-care/plant-care-resources/apple-scab/
+https://www.canr.msu.edu/ipm/diseases/apple_scab
+https://extension.umn.edu/plant-diseases/apple-scab
+
+13
+Apple Rust
+Looks like your apple has apple rust, which often happens in the state of Minnesota. Check out these resources:
+https://extension.umn.edu/plant-diseases/cedar-apple-rust
+https://mortonarb.org/plant-and-protect/tree-plant-care/plant-care-resources/cedar-apple-rust/
+
+28
+Leaf Spot
+Looks like your bell pepper has a leaf spot, which often happens in the state of Maryland. Check out these resources:
+https://extension.umd.edu/resource/bacterial-leaf-spot-peppers
+
+7
+Gray Leaf Spot
+Looks like your corn has a gray leaf spot, which is caused by a fungus called Cercospora zeae-maydis. Check out these resources:
+https://extension.umn.edu/corn-pest-management/gray-leaf-spot-corn
+https://www.extension.purdue.edu/extmedia/bp/BP-56-W.pdf
+https://content.ces.ncsu.edu/gray-leaf-spot-in-corn
+https://cropwatch.unl.edu/plantdisease/corn/gray-leaf-spot
+https://cals.cornell.edu/field-crops/corn/diseases-corn/gray-leaf-spot
+
+22
+Looks like your corn has a leaf blight, which is caused by a fungus called Exserohilum turcicum. Check out these resources:
+https://extension.umn.edu/corn-pest-management/northern-corn-leaf-blight
+https://www.extension.purdue.edu/extmedia/BP/BP-84-W.pdf
+https://discover.pbcgov.org/coextension/agriculture/PDF/Sweet%20Corn%20Disease%20Management%202020.pdf
+https://extension.umn.edu/corn-pest-management/anthracnose-leaf-blight-corn
+
+9
+Looks like your corn has a rust leaf, which is caused by the Puccinia polysora fungus. Check out these resources:
+https://www.cropscience.bayer.us/articles/cp/recognizing-corn-rust-diseases
+https://www.gardeningknowhow.com/edible/vegetables/corn/corn-rust-fungus-control.htm
+https://cropprotectionnetwork.org/encyclopedia/common-rust-of-corn
+https://extension.umn.edu/corn-pest-management/common-rust-corn
+
+31
+Potato leaf early blight
+Looks like your potato has an early blight, which is caused by the Alternaria solani. Early blight is different than late blight. Check out these resources:
+https://www.homesandgardens.com/gardens/potato-blight
+https://ipm.ucanr.edu/agriculture/potato/early-blight/
+https://www.ag.ndsu.edu/potatoextension/early-blight-in-potato
+
+29
+Potato leaf late blight:
+Looks like your potato has a late blight, which is caused by the fungus-like microorganism Phytophthora infestans. Late blight is more common than early blight. Check out these resources:
+https://www.homesandgardens.com/gardens/potato-blight
+https://www.ndsu.edu/agriculture/extension/publications/late-blight-potato
+https://content.ces.ncsu.edu/potato-late-blight
+https://extension.umn.edu/disease-management/late-blight
+https://vegpath.plantpath.wisc.edu/documents/potato-late-blight-fungicides/
+
+35
+Squash Powdery mildew leaf:
+Looks like your squash has a powdery mildew leaf, which is caused by the fungus Erysiphe cichoracearum. Late blight is more common than early blight. Check out these resources:
+https://gardenersyards.com/how-to-get-rid-of-powdery-mildew-on-squash/
+https://savvygardening.com/powdery-mildew-on-squash/
+https://www.tipsbulletin.com/how-to-get-rid-of-powdery-mildew-on-squash/
+
+20
+Tomato Early blight leaf:
+Looks like your tomato leaf has an early blight, which is caused by the fungus Alternaria linariae. Check out these resources:
+https://www.thespruce.com/early-blight-on-tomato-plants-1402973
+https://www.epicgardening.com/early-blight-tomatoes/
+https://content.ces.ncsu.edu/early-blight-of-tomato
+
+3
+Tomato Septoria leaf spot:
+Looks like your tomato leaf has an early blight, which is affects. Check out these resources:
+https://www.thespruce.com/identifying-and-controlling-septoria-leaf-spot-of-tomato-1402974
+https://content.ces.ncsu.edu/septoria-leaf-spot-of-tomato
+https://www.epicgardening.com/septoria-leaf-spot/
+https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/pests-and-problems/diseases/fungal-spots/septoria-leaf-spot-of-tomato
+
+32
+Tomato leaf bacterial spot:
+Looks like your tomato leaf has a bacterial spot, which is disease that affects the leaves, stems, and fruit. There is currently no cure. Check out these resources:
+https://hort.extension.wisc.edu/articles/bacterial-spot-of-tomato/
+https://extension.umn.edu/plant-diseases/tomato-leaf-spot-diseases
+https://extension.msstate.edu/publications/bacterial-speck-and-bacterial-spot-tomatoes
+
+24
+Tomato leaf late blight:
+Looks like your tomato plant has late blight, a mold infection that causes watery blotches all over the plant. Check out these resources:
+https://ipm.ucanr.edu/agriculture/tomato/late-blight/#:~:text=Symptoms%20and%20Signs-,Symptoms%20and%20Signs,may%20appear%20around%20the%20blotches.
+https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/pests-and-problems/diseases/fungal-spots/late-blight-of-tomato
+https://extension.umd.edu/resource/late-blight-tomato-and-potato
+
+30
+Tomato leaf mosaic virus:
+Looks like your tomato plant has mosaic virus, which causes leaf decay and uneven ripening of fruit. There is unfortunately no cure for this disease, but check out these resources for prevention:
+https://blogs.ifas.ufl.edu/stlucieco/2023/03/03/tomato-mosaic-virus-tomv-and-its-management/
+https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/pests-and-problems/diseases/viruses/tobacco-mosaic-virus
+https://www.planetnatural.com/pest-problem-solver/plant-disease/mosaic-virus/
+
+21
+Tomato leaf yellow virus:
+Looks like your tomato plant has yellow leaf curl virus, a serious viral infection spread by the silverleaf whitefly. There is unfortunately no treatment for the disease, but check out these resources for prevention:
+https://ipm.ucanr.edu/agriculture/tomato/tomato-yellow-leaf-curl/
+https://ipm.ifas.ufl.edu/agricultural_ipm/tylcv_home_mgmt.shtml
+https://plantix.net/en/library/plant-diseases/200036/tomato-yellow-leaf-curl-virus/
+
+27
+Tomato mold leaf:
+Looks like your tomato has tomato leaf mold, an infection that withers leaves and can spread to the fruit. Check out these resources:
+https://extension.umn.edu/disease-management/tomato-leaf-mold
+https://www.vegetables.cornell.edu/pest-management/disease-factsheets/tomato-leaf-mold/
+https://www.lsu.edu/agriculture/plant/extension/hcpl-publications/pub-3455-Tomato-Leaf-Mold.pdf
+
+36
+Tomato two spotted spider mites leaf:
+Looks like your tomato plant has been infested with two-spotted spider mites. Check out these resources:
+https://extension.psu.edu/two-spotted-spider-mite-on-vegetables
+https://www.koppertus.com/challenges/pest-control/spider-mites-and-other-mites/two-spotted-spider-mite/
+https://www.growingproduce.com/crop-protection/insect-control/managing-mites-on-tomato-crops/
+
+17
+grape leaf black rot:
+Looks like your grape plant has grape leaf black rot, a potentially serious fungal disease. Check out these resources:
+https://ohioline.osu.edu/factsheet/plpath-fru-24
+https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/pests-and-problems/diseases/fruit-spots/black-rot-of-grapes
+https://extension.psu.edu/black-rot-on-grapes-in-home-gardens
+
+1
+Strawberry Leaf Scorch:
+Looks like your strawberry plant has leaf scorch, a common fungal infection. Check out these resources:
+https://content.ces.ncsu.edu/leaf-scorch-of-strawberry
+https://pnwhandbooks.org/plantdisease/host-disease/strawberry-fragaria-spp-leaf-scorch
+https://www.gardeningknowhow.com/edible/fruits/strawberry/strawberries-with-leaf-scorch.htm
+
+2
+Grape Black Measles
+Looks like your grape plant has black measles (also known as esca), a disease that causes leaves to die prematurely. There is unfortunately no effective treatment for this disease, but check out these resources for prevention:
+https://pnwhandbooks.org/plantdisease/host-disease/grape-vitis-spp-esca-young-esca-petri-disease
+https://plantvillage.psu.edu/topics/grape/infos
+https://ipm.ucanr.edu/agriculture/grape/esca-black-measles/
+
+6
+Peach Bacterial Spot
+Looks like your peach plant has bacterial spot, a common infection caused by Xanthomonas arboricola pv. pruni (XAP). Check out these resources: 
+https://www.canr.msu.edu/ipm/agriculture/fruit/bacterial_spot_of_peach_and_plum#:~:text=Bacterial%20spot%20is%20an%20important,leaf%20spots%20and%20twig%20cankers.
+https://extension.psu.edu/stone-fruit-disease-bacterial-spot
+https://extension.tennessee.edu/publications/Documents/SP277-I.pdf
+
+15
+Tomato Target Spot
+Looks like your tomato plant has target spot, a fungal infection caused by Corynespora cassiicola. Check out these resources:
+https://apps.lucidcentral.org/pppw_v10/text/web_full/entities/tomato_target_spot_163.htm#:~:text=Warm%20wet%20conditions%20favour%20the,4%20weeks%20before%20last%20harvest.
+https://www.gardeningknowhow.com/edible/vegetables/tomato/target-spot-on-tomatoes.htm
+https://www.vegetables.bayer.com/ca/en-ca/resources/agronomic-spotlights/target-spot-of-tomato.html
+
+25
+Cherry Powdery Mildew
+Looks like your cherry plant has powdery mildew, an unserious fungal infection. Check out these resources:
+https://pnwhandbooks.org/plantdisease/host-disease/cherry-prunus-spp-powdery-mildew
+https://www.canr.msu.edu/ipm/diseases/powdery_mildew_of_cherry
+https://extension.psu.edu/powdery-mildew-of-cherry-and-plum-in-home-fruit-plantings
+
+26
+Grape Leaf Blight
+Looks like your grape plant has leaf blight, which can be caused by a variety of bacteria and fungi. Check out these resources:
+https://www.canr.msu.edu/ipm/diseases/leaf_blotch?language_id=
+https://www.planthealthaustralia.com.au/wp-content/uploads/2013/11/Bacterial-blight-of-grapevine-FS.pdf
+https://plantvillage.psu.edu/topics/grape/infos
+
+37
+Orange Huanglongbing
+Looks like your orange plant has Huanglongbing, a citrus greening disease spread by insects. There is unfortunately no cure, but check out these resources for prevention:
+https://www.aphis.usda.gov/aphis/ourfocus/planthealth/plant-pest-and-disease-programs/pests-and-diseases/citrus/citrus-greening#:~:text=Huanglongbing%20(HLB)%2C%20also%20known,when%20feeding%20on%20new%20shoots.
+https://www.cdfa.ca.gov/citrus/pests_diseases/hlb/PestProfile.html
+https://www.fdacs.gov/Agriculture-Industry/Pests-and-Diseases/Plant-Pests-and-Diseases/Citrus-Health-Response-Program/Citrus-Pests-and-Diseases/HLB-Citrus-Greening
+
+38
+Apple Black Rot
+Looks like your apple plant has black rot, a fungal disease that causes discoloration and rotting. Check out these resources:
+https://extension.umn.edu/plant-diseases/black-rot-apple#:~:text=Black%20rot%20is%20caused%20by,%2C%20branches%2C%20leaves%20and%20fruits.
+https://ohioline.osu.edu/factsheet/plpath-fru-07
+https://www.gardeningknowhow.com/edible/fruits/apples/black-rot-on-apple-trees.htm
+
+END

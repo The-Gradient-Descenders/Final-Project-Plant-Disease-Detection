@@ -40,3 +40,4 @@ class Database:
         """
         with open(file, mode="rb") as opened_file:
             loaded_db = pickle.load(opened_file)
+            return loaded_db
